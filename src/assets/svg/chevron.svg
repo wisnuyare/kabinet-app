@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="GA---Role" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="notification-open" transform="translate(-1361.000000, -53.000000)" stroke="#B1B4CE" stroke-width="2">
+            <g id="right-sidebar" transform="translate(1109.000000, 40.000000)">
+                <g id="user" transform="translate(164.000000, 0.000000)">
+                    <polyline id="chevron-down" points="89 14 93 18 97 14"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

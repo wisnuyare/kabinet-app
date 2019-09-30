@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="GA---Role" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="employee-data" transform="translate(-974.000000, -141.000000)" fill="#8186AD" fill-rule="nonzero">
+            <g id="content" transform="translate(322.000000, 40.000000)">
+                <g id="data-section" transform="translate(0.000000, 94.000000)">
+                    <g id="header">
+                        <g id="Edit-Button" transform="translate(615.000000, 4.000000)">
+                            <path d="M37,10.916956 L37,13 L39.083044,13 L45.2266352,6.85640883 L43.1435912,4.77336481 L37,10.916956 Z M46.8375226,5.24552146 C47.0541591,5.02888488 47.0541591,4.67893348 46.8375226,4.4622969 L45.5377031,3.16247743 C45.3210665,2.94584086 44.9711151,2.94584086 44.7544785,3.16247743 L43.7379531,4.17900292 L45.8209971,6.26204694 L46.8375226,5.24552146 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

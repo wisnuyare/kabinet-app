@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="GA---Role" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="request-list" transform="translate(-887.000000, -309.000000)" fill="#63AFEC" fill-rule="nonzero">
+            <g id="content" transform="translate(322.000000, 40.000000)">
+                <g id="employee-section" transform="translate(0.000000, 94.000000)">
+                    <g id="assets" transform="translate(0.000000, 53.000000)">
+                        <g id="row-03" transform="translate(20.000000, 108.000000)">
+                            <g id="accept" transform="translate(532.000000, 0.000000)">
+                                <path d="M26.4764716,14.5631587 C25.7784528,13.8122804 24.6471834,13.8122804 23.9491646,14.5631587 L17.6306682,21.3593973 L16.0508211,19.6601085 C15.3528023,18.9092302 14.2215329,18.9092302 13.5235141,19.6601085 C12.8254953,20.4109867 12.8254953,21.6280006 13.5235141,22.3784205 L16.366786,25.4368413 C17.0648048,26.1877196 18.1960742,26.1877196 18.894093,25.4368413 L26.4764487,17.2819292 C27.1745133,16.5310509 27.1745133,15.314037 26.4764716,14.5631587 Z" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

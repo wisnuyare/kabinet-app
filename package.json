@@ -5,10 +5,17 @@
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.5",
+    "@types/qrcode.react": "^0.8.2",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "@types/react-router": "^5.0.5",
+    "@types/react-router-dom": "^4.3.5",
+    "@types/react-tooltip": "^3.9.3",
+    "node-sass": "^4.12.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.2",
     "typescript": "3.6.3"
   },
@@ -32,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-redux": "^7.1.2",
+    "qrcode.react": "^0.9.3"
   }
 }

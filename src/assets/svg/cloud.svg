@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>cloud</title>
+    <desc>Created with Sketch.</desc>
+    <g id="GA---Role" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-40.000000, -711.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="left-sidebar" transform="translate(0.000000, 40.000000)">
+                <g id="storage" transform="translate(40.000000, 671.000000)">
+                    <g id="content">
+                        <path d="M4.2775659,5.22982345 C4.29295505,2.50712806 6.33338433,0.246482384 8.98108109,0.0186743129 C11.6287778,-0.209133758 14.0085032,1.67120141 14.4667279,4.35314703 C17.0654057,4.45240294 19.0935299,6.69162345 18.9966701,9.35458605 C18.8998103,12.0175486 16.7146453,14.0958436 14.1159675,13.9965877 L4.2775659,13.9965877 C1.91513149,13.9965877 0,12.0340807 0,9.6132056 C0,7.19233049 1.91513149,5.22982345 4.2775659,5.22982345 Z" id="cloud"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
