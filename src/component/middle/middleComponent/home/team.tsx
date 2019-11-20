@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
-import folder from '../../../../assets/svg/folder.svg'
+import folder from '../../../../assets/svg/status-Sync.svg'
 
 export default class Team extends Component {
   render() {
