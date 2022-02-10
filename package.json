@@ -11,7 +11,7 @@
     "@types/react-router": "^5.0.5",
     "@types/react-router-dom": "^4.3.5",
     "@types/react-tooltip": "^3.9.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router": "^5.0.1",
